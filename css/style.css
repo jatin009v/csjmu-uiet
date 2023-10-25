@@ -946,7 +946,7 @@ section{
 
 @media (width <= 410px){
   .home{
-    background: url(../images/mob.png) no-repeat;
+    background: url(../images/logo.jpg) no-repeat;
     background-size: cover;
     background-position: center;
   }
